@@ -20,7 +20,8 @@ alias brewC='brew cleanup --force'
 alias brewi='brew install'
 alias brewl='brew list'
 alias brews='brew search'
-alias brewu='brew update && brew upgrade --all'
+alias brewu='brew upgrade --all'
+alias brewU='brew update && brew upgrade --all'
 alias brewx='brew remove'
 
 # Homebrew Cask
